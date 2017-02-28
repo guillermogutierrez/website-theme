@@ -1,0 +1,10 @@
+{
+  "LiferayTheme": {
+    "appServerPath": "/Users/guillermo/Liferay/bundles/DXP/sp1/platform-demo/tomcat-8.0.32",
+    "deployPath": "/Users/guillermo/Liferay/bundles/DXP/sp1/platform-demo/deploy",
+    "url": "http://localhost:8080",
+    "appServerPathPlugin": "/Users/guillermo/Liferay/bundles/DXP/sp1/platform-demo/tomcat-8.0.32/webapps/website-theme",
+    "deployed": true,
+    "pluginName": "website-theme"
+  }
+}
